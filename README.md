@@ -1,4 +1,4 @@
-![MasterHead](https://media.discordapp.net/attachments/923195202120851537/1266140041516810290/F6mp-l0bcAAiIei.jpg?ex=66a4104d&is=66a2becd&hm=2e308e7af300f31e10f4a7a91611d3ec7fadf195c21b0cc867e92ab58124d01c&=&format=webp&width=1440&height=633)
+![MasterHead](https://github.com/user-attachments/assets/cad5cdbe-c5cb-42f2-bc21-b5a1f4aedd41)
 <h1 align="center">🦊 Hisune</h1>
 <h3 align="center">An Ambitious Game Developer who also does Full-stack and AI Dev sometimes</h3>
 
