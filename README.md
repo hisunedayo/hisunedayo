@@ -1,4 +1,5 @@
 ![MasterHead](https://github.com/user-attachments/assets/cad5cdbe-c5cb-42f2-bc21-b5a1f4aedd41)
+<sub>Banner by [Hyde-Sensei](https://x.com/tabakko)</sub>
 <h1 align="center">🦊 Hisune</h1>
 <h3 align="center">An Ambitious Game Developer who also does Full-stack and AI Dev sometimes</h3>
 
